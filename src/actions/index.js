@@ -8,7 +8,9 @@ export function fetchUsers(){
     payload: [
       { name: 'Jane ' },
       { name: 'Alex' },
-      { name: 'Jim' }
+      { name: 'Jim' },
+      { name: 'Tim' },
+      { name: 'Tammy' }
     ]
   };
 }
